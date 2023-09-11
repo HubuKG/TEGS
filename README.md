@@ -1,1 +1,1 @@
-# The source code of _Text-enhanced Knowledge Graph Representation Learning with Local Graph Structure_
+The source code of _Text-enhanced Knowledge Graph Representation Learning with Local Graph Structure_
