@@ -2,7 +2,7 @@
 
 
 ## Cite
-```shell script
+```
 
 @article{TEGS,
    author = {Li, Zhifei and Jian, Yue and Xue, Zengcan and Zheng, Yumin and Zhang, Miao and Zhang, Yan and Hou, Xiaoju and Wang, Xiaoguang},
